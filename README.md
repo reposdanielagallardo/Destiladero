@@ -8,10 +8,10 @@ En entorno local, abre el proyecto en VS Code y visualízalo con Live Server.
 **💡 Usage:** 
 Referencial para desarrolladores y su implementación en WordPress.
 
-** 🔧 Contributing: **
+**🔧 Contributing:**
 No se aceptan contribuciones en este momento.
 
-** 📜 License: **
+**📜 License:**
 Creative Commons
 
 ## 📧 Contact: 
